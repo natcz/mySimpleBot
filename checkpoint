@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/natcz/Desktop/myBot/model.tflearn"
+all_model_checkpoint_paths: "/home/natcz/Desktop/myBot/model.tflearn"
